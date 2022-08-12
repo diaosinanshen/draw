@@ -1,1 +1,112 @@
-<mxfile host="app.diagrams.net" modified="2022-08-12T07:12:34.472Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.2.3" etag="59GhjL-0GRl_YdLItuem" type="github"><diagram id="8pdpIWsKCT_nU82geBqz">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-12T08:39:11.787Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="jqLrNl1zQL44mqF0IzqZ" version="20.2.3" type="github">
+  <diagram id="8pdpIWsKCT_nU82geBqz" name="第 1 页">
+    <mxGraphModel dx="1449" dy="975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gwkrDSP4pzWXLQr14PSH-2" value="LND01 自动化资源管理微应用部署节点" style="html=1;verticalAlign=top;align=left;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="570" width="740" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="gwkrDSP4pzWXLQr14PSH-3" value="LND02 检修验证微应用部署节点" style="html=1;verticalAlign=top;align=left;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="793" width="740" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="gwkrDSP4pzWXLQr14PSH-4" value="LND03 运行全链路监控平台微应用部署节点" style="html=1;verticalAlign=top;align=left;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1015" width="740" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="gwkrDSP4pzWXLQr14PSH-5" value="LND04 营销业务链路监控微应用部署节点" style="html=1;verticalAlign=top;align=left;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1238" width="740" height="322" as="geometry" />
+        </mxCell>
+        <mxCell id="gwkrDSP4pzWXLQr14PSH-7" value="DU01资源数据发现数部署单元" style="html=1;fontSize=16;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="240" y="626.4" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gwkrDSP4pzWXLQr14PSH-8" value="常规状态检查" style="html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="240" y="2420" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gwkrDSP4pzWXLQr14PSH-9" value="DU02数据自动采集部署单元" style="html=1;fontSize=16;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="490" y="626.4" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gwkrDSP4pzWXLQr14PSH-10" value="Du03数据合规性自动检查部署单元" style="html=1;fontSize=16;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="740" y="626.4" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gwkrDSP4pzWXLQr14PSH-11" value="DU04运行状态监测部署单元" style="html=1;fontSize=16;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="240" y="844.4" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gwkrDSP4pzWXLQr14PSH-12" value="DU05运行分析" style="html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="490" y="844.4" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gwkrDSP4pzWXLQr14PSH-13" value="DU06告警分析" style="html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="730" y="844.4" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gwkrDSP4pzWXLQr14PSH-14" value="DU07业务逻辑拓扑管理部署单元" style="html=1;fontSize=16;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1066.4" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gwkrDSP4pzWXLQr14PSH-15" value="DU08集成关系管理部署单元" style="html=1;fontSize=16;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1066.4" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gwkrDSP4pzWXLQr14PSH-16" value="DU09物理链路诊断分析部署单元" style="html=1;fontSize=16;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1066.4" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gwkrDSP4pzWXLQr14PSH-17" value="DU10&lt;span style=&quot;font-family: 方正仿宋_GBK; font-size: 10.5pt; background-color: initial;&quot;&gt;营销业务域全流量获取&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;部署单元&lt;/span&gt;" style="html=1;fontSize=16;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1306.4" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gwkrDSP4pzWXLQr14PSH-18" value="DU11&lt;span style=&quot;font-family: 方正仿宋_GBK; font-size: 10.5pt; background-color: initial;&quot;&gt;交易监控&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;部署单元&lt;/span&gt;" style="html=1;fontSize=16;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1306.4" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gwkrDSP4pzWXLQr14PSH-29" value="DU12协议解码&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22DU11%26lt%3Bspan%20style%3D%26quot%3Bfont-family%3A%20%E6%96%B9%E6%AD%A3%E4%BB%BF%E5%AE%8B_GBK%3B%20font-size%3A%2010.5pt%3B%20background-color%3A%20initial%3B%26quot%3B%26gt%3B%E4%BA%A4%E6%98%93%E7%9B%91%E6%8E%A7%26lt%3B%2Fspan%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bbackground-color%3A%20initial%3B%26quot%3B%26gt%3B%E9%83%A8%E7%BD%B2%E5%8D%95%E5%85%83%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22html%3D1%3BfontSize%3D16%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22460%22%20y%3D%221300%22%20width%3D%22220%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;部署单元&lt;/span&gt;" style="html=1;fontSize=16;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1310.4" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gwkrDSP4pzWXLQr14PSH-30" value="DU13业务分析&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22DU11%26lt%3Bspan%20style%3D%26quot%3Bfont-family%3A%20%E6%96%B9%E6%AD%A3%E4%BB%BF%E5%AE%8B_GBK%3B%20font-size%3A%2010.5pt%3B%20background-color%3A%20initial%3B%26quot%3B%26gt%3B%E4%BA%A4%E6%98%93%E7%9B%91%E6%8E%A7%26lt%3B%2Fspan%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bbackground-color%3A%20initial%3B%26quot%3B%26gt%3B%E9%83%A8%E7%BD%B2%E5%8D%95%E5%85%83%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22html%3D1%3BfontSize%3D16%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22460%22%20y%3D%221300%22%20width%3D%22220%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;部署单元&lt;/span&gt;" style="html=1;fontSize=16;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1396.4" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gwkrDSP4pzWXLQr14PSH-31" value="DU14交易告警&lt;span style=&quot;background-color: initial;&quot;&gt;部署单元&lt;/span&gt;" style="html=1;fontSize=16;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1396.4" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gwkrDSP4pzWXLQr14PSH-32" value="DU15&lt;span style=&quot;font-family: 方正仿宋_GBK; font-size: 10.5pt; background-color: initial;&quot;&gt;交易监控&lt;/span&gt;&lt;span style=&quot;background-color: initial; color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22DU11%E4%BA%A4%E6%98%93%E5%91%8A%E8%AD%A6%26lt%3Bspan%20style%3D%26quot%3Bbackground-color%3A%20initial%3B%26quot%3B%26gt%3B%E9%83%A8%E7%BD%B2%E5%8D%95%E5%85%83%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22html%3D1%3BfontSize%3D16%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22450%22%20y%3D%221390%22%20width%3D%22220%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;部署单元&lt;/span&gt;" style="html=1;fontSize=16;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1396.4" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gwkrDSP4pzWXLQr14PSH-33" value="DU16&lt;span style=&quot;font-family: 方正仿宋_GBK; font-size: 10.5pt; background-color: initial;&quot;&gt;关键指标统计&lt;/span&gt;&lt;span style=&quot;background-color: initial; color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22DU11%26lt%3Bspan%20style%3D%26quot%3Bfont-family%3A%20%E6%96%B9%E6%AD%A3%E4%BB%BF%E5%AE%8B_GBK%3B%20font-size%3A%2010.5pt%3B%20background-color%3A%20initial%3B%26quot%3B%26gt%3B%E4%BA%A4%E6%98%93%E7%9B%91%E6%8E%A7%26lt%3B%2Fspan%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bbackground-color%3A%20initial%3B%20color%3A%20rgba(0%2C%200%2C%200%2C%200)%3B%20font-family%3A%20monospace%3B%20font-size%3A%200px%3B%20text-align%3A%20start%3B%26quot%3B%26gt%3B%253CmxGraphModel%253E%253Croot%253E%253CmxCell%2520id%253D%25220%2522%252F%253E%253CmxCell%2520id%253D%25221%2522%2520parent%253D%25220%2522%252F%253E%253CmxCell%2520id%253D%25222%2522%2520value%253D%2522DU11%25E4%25BA%25A4%25E6%2598%2593%25E5%2591%258A%25E8%25AD%25A6%2526lt%253Bspan%2520style%253D%2526quot%253Bbackground-color%253A%2520initial%253B%2526quot%253B%2526gt%253B%25E9%2583%25A8%25E7%25BD%25B2%25E5%258D%2595%25E5%2585%2583%2526lt%253B%252Fspan%2526gt%253B%2522%2520style%253D%2522html%253D1%253BfontSize%253D16%253B%2522%2520vertex%253D%25221%2522%2520parent%253D%25221%2522%253E%253CmxGeometry%2520x%253D%2522450%2522%2520y%253D%25221390%2522%2520width%253D%2522220%2522%2520height%253D%252260%2522%2520as%253D%2522geometry%2522%252F%253E%253C%252FmxCell%253E%253C%252Froot%253E%253C%252FmxGraphModel%253E%26lt%3B%2Fspan%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bbackground-color%3A%20initial%3B%26quot%3B%26gt%3B%E9%83%A8%E7%BD%B2%E5%8D%95%E5%85%83%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22html%3D1%3BfontSize%3D16%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22700%22%20y%3D%221390%22%20width%3D%22220%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;background-color: initial; color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22DU11%E4%BA%A4%E6%98%93%E5%91%8A%E8%AD%A6%26lt%3Bspan%20style%3D%26quot%3Bbackground-color%3A%20initial%3B%26quot%3B%26gt%3B%E9%83%A8%E7%BD%B2%E5%8D%95%E5%85%83%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22html%3D1%3BfontSize%3D16%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22450%22%20y%3D%221390%22%20width%3D%22220%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;部署单元&lt;/span&gt;" style="html=1;fontSize=16;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1486.4" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gwkrDSP4pzWXLQr14PSH-6" value="LND05 信通客服数据统计分级及智能预警微应用部署节点" style="html=1;verticalAlign=top;align=left;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1630" width="740" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="gwkrDSP4pzWXLQr14PSH-19" value="DU17常规监测部署单元" style="html=1;fontSize=16;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1696.4" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gwkrDSP4pzWXLQr14PSH-20" value="DU18智能预警部署单元" style="html=1;fontSize=16;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1696.4" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gwkrDSP4pzWXLQr14PSH-21" value="DU19客服数据统计分析部署单元" style="html=1;fontSize=16;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1696.4" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gwkrDSP4pzWXLQr14PSH-1" value="防火墙" style="html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="200" y="380" width="740" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gwkrDSP4pzWXLQr14PSH-22" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_load_balancer;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="545" y="460" width="50" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="gwkrDSP4pzWXLQr14PSH-25" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=16;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="gwkrDSP4pzWXLQr14PSH-22" target="gwkrDSP4pzWXLQr14PSH-1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="530" y="530" as="sourcePoint" />
+            <mxPoint x="630" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gwkrDSP4pzWXLQr14PSH-26" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=16;exitX=0.379;exitY=-0.016;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.02;entryY=0.96;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="481.20000000000005" y="569.9999999999999" as="sourcePoint" />
+            <mxPoint x="546.74" y="496.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gwkrDSP4pzWXLQr14PSH-27" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=16;exitX=0.98;exitY=0.96;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.619;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="594.74" y="496.0000000000001" as="sourcePoint" />
+            <mxPoint x="658.8" y="569.4" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gwkrDSP4pzWXLQr14PSH-34" value="负载均衡" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="525.74" y="507.4" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

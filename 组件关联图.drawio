@@ -1,0 +1,208 @@
+<mxfile host="app.diagrams.net" modified="2022-08-13T02:25:46.360Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="SgWEI3HKAkJEmpIHNNf9" version="20.2.3" type="github">
+  <diagram id="-nUlbiPWIa_YUagmwYu6" name="第 1 页">
+    <mxGraphModel dx="2062" dy="1058" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-109" value="基础架构服务层" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fontSize=18;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="42.5" y="1470" width="1118.5" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-108" value="技术服务层" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fontSize=18;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="42.5" y="1220" width="1118.5" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-104" value="基础业务服务层" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fontSize=18;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="41.5" y="980" width="1118.5" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-103" value="业务逻辑层" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fontSize=18;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="40.5" y="505" width="1120" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-101" value="展示层" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fontSize=18;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="40" y="20" width="1120" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600.5" y="1150" as="sourcePoint" />
+            <mxPoint x="600.5" y="1230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-35" value="YWLJ-01&#xa;资源自动发现组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="61" y="580" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-36" value="YWLJ-02&#xa;数据自动采集组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="197" y="580" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-37" value="YWLJ-03&#xa;数据合规性自动核查组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="332" y="580" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-38" value="YWLJ-04&#xa;运行状态监测组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="468" y="580" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-39" value="YWLJ-06&#xa;告警管理组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="740" y="580" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-40" value="YWLJ-09&#xa;业务逻辑拓扑管理组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="61" y="685" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-41" value="YWLJ-10&#xa;营销业务域全流量获取组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="197" y="685" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-42" value="YWLJ-11&#xa;交易监控组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="332" y="685" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-43" value="YWLJ-12&#xa;协议解码组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="468" y="685" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-44" value="YWLJ-05&#xa;运行分析组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="604" y="580" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-45" value="YWLJ-07&#xa;影响关系管理组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="875" y="580" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-46" value="YWLJ-08&#xa;物理链路诊断分析组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1011" y="580" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-47" value="YWLJ-13&#xa;业务分析组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="604" y="685" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-48" value="YWLJ-14&#xa;交易告警组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="740" y="685" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-49" value="YWLJ-19&#xa;交易监控示组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="332" y="790" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-50" value="YWLJ-15&#xa;关键指标统计组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="875" y="685" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-51" value="YWLJ-16&#xa;常规状态监测组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1011" y="685" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-52" value="YWLJ-17&#xa;客服数据采集与统计分析组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="61" y="790" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-53" value="YWLJ-18&#xa;智能预警组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="197" y="790" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-76" value="JCYW-01&#xa;日志组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="274" y="1050" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-77" value="JCYW-02&#xa;注册中心" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="410" y="1050" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-78" value="JCYW-03&#xa;配置中心" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="545" y="1050" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-79" value="JCYW-04&#xa;网关组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="681" y="1050" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-81" value="JCYW-05&#xa;安全组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="817" y="1050" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320.25" y="429.9999999999998" as="sourcePoint" />
+            <mxPoint x="320.2500000000002" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600.5" y="429.9999999999998" as="sourcePoint" />
+            <mxPoint x="600.5" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880.75" y="429.9999999999998" as="sourcePoint" />
+            <mxPoint x="880.75" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-93" value="JSFW-01&#xa;Java运行组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="477.5" y="1290" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-94" value="JSFW-02&#xa;Js处理组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="613.5" y="1290" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-98" value="JCJG-01&#xa;中间件服务" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="340.5" y="1530" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-99" value="JCJG-02&#xa;负载均衡服务" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="476.5" y="1530" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-2" value="YEZX-01&#xa;资源自动发现展示组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="61" y="100" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-3" value="YEZX-02&#xa;数据自动采集展示组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="197" y="100" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-4" value="YEZX-03&#xa;数据合规性自动核查展示组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="332" y="100" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-5" value="YEZX-04&#xa;运行状态监测展示组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="468" y="100" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-6" value="YEZX-06&#xa;告警管理展示组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="740" y="100" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-7" value="YEZX-09&#xa;业务逻辑拓扑管理展示组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="61" y="205" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-10" value="YEZX-10&#xa;营销业务域全流量获取展示组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="197" y="205" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-12" value="YEZX-11&#xa;交易监控展示组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="332" y="205" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-13" value="YEZX-12&#xa;协议解码展示组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="468" y="205" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-14" value="YEZX-05&#xa;运行分析展示组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="604" y="100" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-15" value="YEZX-07&#xa;影响关系管理展示组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="875" y="100" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-16" value="YEZX-08&#xa;物理链路诊断分析展示组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1011" y="100" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-17" value="YEZX-13&#xa;业务分析展示组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="604" y="205" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-18" value="YEZX-14&#xa;交易告警展示组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="740" y="205" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-19" value="YEZX-19&#xa;交易监控示展示组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="332" y="310" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-20" value="YEZX-15&#xa;关键指标统计展示组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="875" y="205" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-21" value="YEZX-16&#xa;常规状态监测展示组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1011" y="205" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-22" value="YEZX-17&#xa;客服数据采集与统计分析展示组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="61" y="310" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-23" value="YEZX-18&#xa;智能预警展示组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="197" y="310" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-107" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;exitX=0.498;exitY=1.001;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.499;entryY=0.076;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="xfbAxuXr3Si1YzYXhxK_-103" target="xfbAxuXr3Si1YzYXhxK_-104" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="930" as="sourcePoint" />
+            <mxPoint x="610" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-110" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;exitX=0.498;exitY=1.005;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.498;entryY=0.082;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="xfbAxuXr3Si1YzYXhxK_-108" target="xfbAxuXr3Si1YzYXhxK_-109" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="1450" as="sourcePoint" />
+            <mxPoint x="630" y="1400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-111" value="JCJG-03&#xa;数据库服务" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="613" y="1530" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-112" value="JCJG-04&#xa;缓存服务" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="753" y="1530" width="110" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-13T02:25:46.360Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="SgWEI3HKAkJEmpIHNNf9" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-13T03:44:19.819Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="4lETNkZjx1pLmRbn0bNr" version="20.2.3" type="github">
   <diagram id="-nUlbiPWIa_YUagmwYu6" name="第 1 页">
     <mxGraphModel dx="2062" dy="1058" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -82,20 +82,20 @@
         <mxCell id="xfbAxuXr3Si1YzYXhxK_-53" value="YWLJ-18&#xa;智能预警组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="197" y="790" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xfbAxuXr3Si1YzYXhxK_-76" value="JCYW-01&#xa;日志组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="274" y="1050" width="110" height="50" as="geometry" />
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-76" value="JCYW-01&#xa;静态参数组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="80" y="1050" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xfbAxuXr3Si1YzYXhxK_-77" value="JCYW-02&#xa;注册中心" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="410" y="1050" width="110" height="50" as="geometry" />
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-77" value="JCYW-02&#xa;动态参数组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="216" y="1050" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xfbAxuXr3Si1YzYXhxK_-78" value="JCYW-03&#xa;配置中心" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="545" y="1050" width="110" height="50" as="geometry" />
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-78" value="JCYW-03&#xa;数据缓存组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="351" y="1050" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xfbAxuXr3Si1YzYXhxK_-79" value="JCYW-04&#xa;网关组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="681" y="1050" width="110" height="50" as="geometry" />
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-79" value="JCYW-04&#xa;日志组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="487" y="1050" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xfbAxuXr3Si1YzYXhxK_-81" value="JCYW-05&#xa;安全组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="817" y="1050" width="110" height="50" as="geometry" />
+        <mxCell id="xfbAxuXr3Si1YzYXhxK_-81" value="JCYW-05&#xa;系统配置组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="623" y="1050" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xfbAxuXr3Si1YzYXhxK_-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -201,6 +201,15 @@
         </mxCell>
         <mxCell id="xfbAxuXr3Si1YzYXhxK_-112" value="JCJG-04&#xa;缓存服务" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="753" y="1530" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2LXU_3X6bgzTIwt-wgfQ-2" value="JCYW-06&#xa;授权管理配置" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="756" y="1050" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2LXU_3X6bgzTIwt-wgfQ-3" value="JCYW-07&#xa;消息管理组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="890" y="1050" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2LXU_3X6bgzTIwt-wgfQ-4" value="JCYW-08&#xa;算法分析组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="1050" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,1 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2022-08-13T06:04:08.017Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.2.3" etag="OR0n68DApgKXnY3ltmy2" type="github"><diagram id="ZBIIBqjIis6C7rgJ271J">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-13T06:35:28.454Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="aezUUPWCasTnNJYEDyGY" version="20.2.3" type="github">
+  <diagram id="ZBIIBqjIis6C7rgJ271J" name="第 1 页">
+    <mxGraphModel dx="1893" dy="1058" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="j7gf1JbB7K04F_YbTjjG-10" value="LND01-应用服务器部署节点" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;labelPosition=center;verticalLabelPosition=middle;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="55.74" y="650" width="484.26" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="j7gf1JbB7K04F_YbTjjG-1" value="防火墙" style="html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="200" y="380" width="740" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j7gf1JbB7K04F_YbTjjG-2" value="负载均衡" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_load_balancer;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="545" y="460" width="50" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="j7gf1JbB7K04F_YbTjjG-7" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550.74" y="250" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j7gf1JbB7K04F_YbTjjG-34" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="j7gf1JbB7K04F_YbTjjG-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="360" as="sourcePoint" />
+            <mxPoint x="570" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j7gf1JbB7K04F_YbTjjG-35" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="j7gf1JbB7K04F_YbTjjG-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="460" as="sourcePoint" />
+            <mxPoint x="570" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j7gf1JbB7K04F_YbTjjG-22" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;DU05&lt;/span&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: initial; font-family: 方正仿宋_GBK;&quot;&gt;信通客服数据统计分析及智能预警微应用&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j7gf1JbB7K04F_YbTjjG-20" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;DU04&lt;/span&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: initial; font-family: 方正仿宋_GBK;&quot;&gt;营销交易业务链路监控微应用&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;微应用&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="319" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j7gf1JbB7K04F_YbTjjG-18" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;DU03&lt;/span&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: initial; font-family: 方正仿宋_GBK;&quot;&gt;运行全链路监控平台微应用&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;微应用&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="157" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j7gf1JbB7K04F_YbTjjG-11" value="UD01&lt;br&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;自动化资源管理微应用&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75.74000000000001" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j7gf1JbB7K04F_YbTjjG-16" value="UD02&lt;br&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;自动化资源管理微应用&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="238" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j7gf1JbB7K04F_YbTjjG-66" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=-0.006;entryY=0.879;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="j7gf1JbB7K04F_YbTjjG-10" target="j7gf1JbB7K04F_YbTjjG-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="610" as="sourcePoint" />
+            <mxPoint x="400" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j7gf1JbB7K04F_YbTjjG-67" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.98;exitY=0.96;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="j7gf1JbB7K04F_YbTjjG-2" target="j7gf1JbB7K04F_YbTjjG-68">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="610" as="sourcePoint" />
+            <mxPoint x="1004.2599999999998" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j7gf1JbB7K04F_YbTjjG-68" value="LND02-应用服务器部署节点" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;labelPosition=center;verticalLabelPosition=middle;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="600" y="650" width="484.26" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="j7gf1JbB7K04F_YbTjjG-69" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;DU05&lt;/span&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: initial; font-family: 方正仿宋_GBK;&quot;&gt;信通客服数据统计分析及智能预警微应用&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="944.26" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j7gf1JbB7K04F_YbTjjG-70" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;DU04&lt;/span&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: initial; font-family: 方正仿宋_GBK;&quot;&gt;营销交易业务链路监控微应用&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;微应用&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="863.26" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j7gf1JbB7K04F_YbTjjG-71" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;DU03&lt;/span&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: initial; font-family: 方正仿宋_GBK;&quot;&gt;运行全链路监控平台微应用&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;微应用&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="701.26" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j7gf1JbB7K04F_YbTjjG-72" value="UD01&lt;br&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;自动化资源管理微应用&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j7gf1JbB7K04F_YbTjjG-73" value="UD02&lt;br&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;自动化资源管理微应用&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="782.26" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

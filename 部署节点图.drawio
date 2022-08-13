@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-12T08:39:11.787Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="jqLrNl1zQL44mqF0IzqZ" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-13T01:32:27.278Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="CECzfkAUrYMkMk0-oAQn" version="20.2.3" type="github">
   <diagram id="8pdpIWsKCT_nU82geBqz" name="第 1 页">
-    <mxGraphModel dx="1449" dy="975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="3172" dy="1628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,9 +18,6 @@
         </mxCell>
         <mxCell id="gwkrDSP4pzWXLQr14PSH-7" value="DU01资源数据发现数部署单元" style="html=1;fontSize=16;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="240" y="626.4" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="gwkrDSP4pzWXLQr14PSH-8" value="常规状态检查" style="html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="240" y="2420" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gwkrDSP4pzWXLQr14PSH-9" value="DU02数据自动采集部署单元" style="html=1;fontSize=16;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="490" y="626.4" width="160" height="60" as="geometry" />

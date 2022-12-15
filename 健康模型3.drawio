@@ -1,1 +1,237 @@
-<mxfile host="app.diagrams.net" modified="2022-12-15T06:30:00.801Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.2" etag="oru_9w45cYXKvKHjfxe2" type="github"><diagram id="ry6GP0jO2ZC52KnD7FWj">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-15T07:19:09.973Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.2" etag="hc1oQ5u39bdWi4QGQKk5" type="github">
+  <diagram id="izwWM4gM8pH8U4Y7A12L" name="第 1 页">
+    <mxGraphModel dx="5324" dy="4148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-1" value="系统评分处理器" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;fillColor=#CCFFFF;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-1090" y="-1820" width="1230" height="2070" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-2" value="健康评分计算" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#CCE5FF;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-1060" y="-1770" width="1160" height="1980" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-7" value="计算健康评分详情得分" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#FFE6CC;" vertex="1" parent="1">
+          <mxGeometry x="-997.5" y="-1250" width="1040" height="930" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-8" value="基础数据" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#FFCCCC;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-1000" y="-1720" width="1040" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-53" value="指标平均分" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-970" y="-1670" width="470" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-50" value="严重告警指标平均分&lt;br&gt;（avgSerious）" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;flipV=1;fillColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="-960" y="-1610.87" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-51" value="次严重告警指标平均分&lt;br&gt;（avgSubSerious）" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;flipV=1;fillColor=#FF9999;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="-1610.87" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-52" value="预警告警指标平均分&lt;br&gt;（avgGeneralSerious）" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;flipV=1;fillColor=#FFCCCC;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="-1610.87" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-54" value="使用健康指数&lt;br&gt;（useIndex）" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-970" y="-1470" width="985" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-55" value="初始健康评分详情" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#CCE5FF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="-1670" width="470" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-56" value="严重告警健康评分信息&lt;br&gt;（sDetail）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="-426.42857142857144" y="-1610.4352173913041" width="100.71428571428571" height="59.130434782608695" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-57" value="次严重告警健康评分信息&lt;br&gt;（subDetail）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9999;" vertex="1" parent="1">
+          <mxGeometry x="-285.42857142857144" y="-1610.4352173913041" width="100.71428571428571" height="59.130434782608695" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-58" value="预警告警健康评分信息&lt;br&gt;（gDetail）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" vertex="1" parent="1">
+          <mxGeometry x="-137.71428571428572" y="-1610.4352173913041" width="100.71428571428571" height="59.130434782608695" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-60" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;fontColor=#CCFFFF;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-515" y="-1360" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-62" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="-1180" width="730" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Otjz2qQ6AenyKlfUYaBh-64" target="Otjz2qQ6AenyKlfUYaBh-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-64" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="-707.5" y="-1077.9999999999998" width="40" height="100.87" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#CCFFFF;" edge="1" parent="1" source="Otjz2qQ6AenyKlfUYaBh-69" target="Otjz2qQ6AenyKlfUYaBh-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-94" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="Otjz2qQ6AenyKlfUYaBh-89">
+          <mxGeometry x="-0.2488" y="-1" relative="1" as="geometry">
+            <mxPoint y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="Otjz2qQ6AenyKlfUYaBh-69" target="Otjz2qQ6AenyKlfUYaBh-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-98" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="Otjz2qQ6AenyKlfUYaBh-97">
+          <mxGeometry x="-0.3088" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-69" value="是否是告警信息" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#CCFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-567.5" y="-1085.33" width="160" height="114.68" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-82" value="严重告警健康评分信息&lt;br&gt;（sDetail）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="-979.9985714285715" y="-1099.9995652173914" width="135" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-84" value="0分" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;flipV=1;fillColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="-532.5000000000001" y="-1170" width="90" height="38.26" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="Otjz2qQ6AenyKlfUYaBh-88" target="Otjz2qQ6AenyKlfUYaBh-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-88" value="严重告警指标平均分&lt;br&gt;&lt;br&gt;（avgSerious）" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;flipV=1;fillColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="-297.5" y="-1057.995" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-90" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="-67.5" y="-1077.995" width="40" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-99" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-830" y="-1077.99" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-103" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="-890" width="730" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Otjz2qQ6AenyKlfUYaBh-105" target="Otjz2qQ6AenyKlfUYaBh-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-105" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="-707.5" y="-787.9999999999998" width="40" height="100.87" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#CCFFFF;" edge="1" parent="1" source="Otjz2qQ6AenyKlfUYaBh-110">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-297.5" y="-738.0588235294117" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-107" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="Otjz2qQ6AenyKlfUYaBh-106">
+          <mxGeometry x="-0.2488" y="-1" relative="1" as="geometry">
+            <mxPoint y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="Otjz2qQ6AenyKlfUYaBh-110" target="Otjz2qQ6AenyKlfUYaBh-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-109" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="Otjz2qQ6AenyKlfUYaBh-108">
+          <mxGeometry x="-0.3088" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-110" value="是否是告警信息" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#CCFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-567.5" y="-795.3299999999999" width="160" height="114.68" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-112" value="0分" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;flipV=1;fillColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="-532.5000000000001" y="-880" width="90" height="38.26" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" target="Otjz2qQ6AenyKlfUYaBh-115">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-147.5" y="-737.9949999999999" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-115" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="-67.5" y="-787.9949999999999" width="40" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-116" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-830" y="-780.44" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-117" value="次严重告警健康评分信息&lt;br&gt;（subDetail）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9999;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="-810.88" width="135" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-118" value="次严重告警指标平均分&lt;br&gt;（avgSubSerious）" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;flipV=1;fillColor=#FF9999;" vertex="1" parent="1">
+          <mxGeometry x="-297.5" y="-767.57" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-119" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="-600" width="730" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Otjz2qQ6AenyKlfUYaBh-121" target="Otjz2qQ6AenyKlfUYaBh-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-121" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="-705" y="-497.9999999999998" width="40" height="100.87" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#CCFFFF;" edge="1" parent="1" source="Otjz2qQ6AenyKlfUYaBh-126">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-295" y="-448.0588235294117" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-123" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="Otjz2qQ6AenyKlfUYaBh-122">
+          <mxGeometry x="-0.2488" y="-1" relative="1" as="geometry">
+            <mxPoint y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="Otjz2qQ6AenyKlfUYaBh-126" target="Otjz2qQ6AenyKlfUYaBh-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-125" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="Otjz2qQ6AenyKlfUYaBh-124">
+          <mxGeometry x="-0.3088" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-126" value="是否是告警信息" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#CCFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-565" y="-505.3299999999999" width="160" height="114.68" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-127" value="0分" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;flipV=1;fillColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="-530.0000000000001" y="-590" width="90" height="38.26" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" target="Otjz2qQ6AenyKlfUYaBh-129">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-145" y="-447.9949999999999" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-129" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="-67.5" y="-498.0049999999999" width="40" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-130" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-829.28" y="-498.00000000000006" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-133" value="预警告警健康评分信息&lt;br&gt;（gDetail）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" vertex="1" parent="1">
+          <mxGeometry x="-980.0042857142857" y="-527.9952173913041" width="135" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-134" value="预警告警指标平均分&lt;br&gt;（avgGeneralSerious）" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;flipV=1;fillColor=#FFCCCC;" vertex="1" parent="1">
+          <mxGeometry x="-295" y="-477.99" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-135" value="计算健康评分详情总分" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#FFE6CC;" vertex="1" parent="1">
+          <mxGeometry x="-995" y="-180" width="1040" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="Otjz2qQ6AenyKlfUYaBh-136" target="Otjz2qQ6AenyKlfUYaBh-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-136" value="严重告警健康评分信息&lt;br&gt;（sDetail）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="-924.9985714285715" y="-129.99956521739136" width="100.71428571428571" height="59.130434782608695" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="Otjz2qQ6AenyKlfUYaBh-137" target="Otjz2qQ6AenyKlfUYaBh-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-137" value="次严重告警健康评分信息&lt;br&gt;（subDetail）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9999;" vertex="1" parent="1">
+          <mxGeometry x="-925.7185714285715" y="-29.56521739130409" width="100.71428571428571" height="59.130434782608695" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="Otjz2qQ6AenyKlfUYaBh-138" target="Otjz2qQ6AenyKlfUYaBh-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-138" value="预警告警健康评分信息&lt;br&gt;（gDetail）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" vertex="1" parent="1">
+          <mxGeometry x="-925.7142857142858" y="80.0047826086959" width="100.71428571428571" height="59.130434782608695" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-139" value="系统健康评分总分" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FF7777;" vertex="1" parent="1">
+          <mxGeometry x="-675" y="-30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-144" value="使用健康指数&lt;br&gt;（useIndex）" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-421.43" y="-59.78" width="180" height="119.57" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-145" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-225" y="-25" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-147" value="系统健康最终评分" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="-50.43" width="145" height="100.86" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-148" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-535" y="-25.000000000000007" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-151" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;fontColor=#CCFFFF;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-512.5" y="-300" width="70" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

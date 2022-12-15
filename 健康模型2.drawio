@@ -1,59 +1,150 @@
-<mxfile host="app.diagrams.net" modified="2022-12-14T09:55:00.212Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="9FZ1OCRxH0fhfP2c2YDB" version="20.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-15T06:07:15.971Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="kyi6PTLolhFAL6zkOEks" version="20.6.2" type="github">
   <diagram id="QP86d_SbM729CwSrI5CI" name="第 1 页">
-    <mxGraphModel dx="3262" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="4637" dy="3777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wmuMwJECuC7DbsyBC3H5-5" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="-800" y="689" width="100" height="51" as="geometry" />
+        <mxCell id="wmuMwJECuC7DbsyBC3H5-11" value="系统评分处理器" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;fillColor=#CCFFFF;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="-1090" y="-1820" width="1230" height="1710" as="geometry" />
         </mxCell>
-        <mxCell id="wmuMwJECuC7DbsyBC3H5-6" value="权重确认" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="1110" width="120" height="60" as="geometry" />
+        <mxCell id="wmuMwJECuC7DbsyBC3H5-12" value="初始化评分基础数据" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#CCE5FF;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="-1060" y="-1770" width="1160" height="1620" as="geometry" />
         </mxCell>
-        <mxCell id="wmuMwJECuC7DbsyBC3H5-7" value="指数确认" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="1110" width="120" height="60" as="geometry" />
+        <mxCell id="wmuMwJECuC7DbsyBC3H5-1" value="健康模型" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#FFF2CC;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-1000" y="-1720" width="290" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="wmuMwJECuC7DbsyBC3H5-8" value="评分算法计算得分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="1210" width="120" height="60" as="geometry" />
+        <mxCell id="wmuMwJECuC7DbsyBC3H5-2" value="权重占比" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCC99;" parent="1" vertex="1">
+          <mxGeometry x="-960" y="-1680" width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wmuMwJECuC7DbsyBC3H5-9" value="评分更新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="1310" width="120" height="60" as="geometry" />
+        <mxCell id="wmuMwJECuC7DbsyBC3H5-3" value="健康指数" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCC99;" parent="1" vertex="1">
+          <mxGeometry x="-960" y="-1620" width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wmuMwJECuC7DbsyBC3H5-10" value="评分日志更新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="1310" width="120" height="60" as="geometry" />
+        <mxCell id="wmuMwJECuC7DbsyBC3H5-4" value="计算频率" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCC99;" parent="1" vertex="1">
+          <mxGeometry x="-960" y="-1550" width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wmuMwJECuC7DbsyBC3H5-11" value="系统评分处理器" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;fillColor=#CCFFFF;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-1110" y="670" width="1230" height="1210" as="geometry" />
+        <mxCell id="wmuMwJECuC7DbsyBC3H5-13" value="" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#FFE6CC;" parent="1" vertex="1">
+          <mxGeometry x="-1000" y="-1380" width="1040" height="1180" as="geometry" />
         </mxCell>
-        <mxCell id="wmuMwJECuC7DbsyBC3H5-12" value="评分计算" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#CCE5FF;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-1080" y="720" width="1160" height="1100" as="geometry" />
+        <mxCell id="wmuMwJECuC7DbsyBC3H5-17" value="初始健康评分详情" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#FFCCCC;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-660" y="-1720" width="700" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="wmuMwJECuC7DbsyBC3H5-1" value="健康模型" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-1020" y="770" width="290" height="230" as="geometry" />
+        <mxCell id="wmuMwJECuC7DbsyBC3H5-14" value="严重告警健康评分信息&lt;br&gt;（sDetail）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF6666;" parent="1" vertex="1">
+          <mxGeometry x="-610" y="-1640" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wmuMwJECuC7DbsyBC3H5-2" value="权重" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-980" y="810" width="190" height="40" as="geometry" />
+        <mxCell id="wmuMwJECuC7DbsyBC3H5-15" value="次严重告警健康评分信息&lt;br&gt;（subDetail）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9999;" parent="1" vertex="1">
+          <mxGeometry x="-400" y="-1640" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wmuMwJECuC7DbsyBC3H5-3" value="指数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-980" y="880" width="190" height="40" as="geometry" />
+        <mxCell id="wmuMwJECuC7DbsyBC3H5-16" value="预警告警健康评分信息&lt;br&gt;（gDetail）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" parent="1" vertex="1">
+          <mxGeometry x="-180" y="-1640" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wmuMwJECuC7DbsyBC3H5-4" value="计算频率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-980" y="940" width="190" height="40" as="geometry" />
+        <mxCell id="VA9WSa8h0C6rnpW5ZgEt-3" value="权重占比得分初始化" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#D4E1F5;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-955" y="-1330" width="950" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="wmuMwJECuC7DbsyBC3H5-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1020" y="1060" width="1030" height="200" as="geometry" />
+        <mxCell id="VA9WSa8h0C6rnpW5ZgEt-4" value="严重权重得分&lt;br&gt;&lt;br&gt;scoreSerious = 100 * 严重告警权重" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="-936" y="-1290" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wmuMwJECuC7DbsyBC3H5-17" value="初始健康评分详情" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-680" y="770" width="660" height="230" as="geometry" />
+        <mxCell id="VA9WSa8h0C6rnpW5ZgEt-5" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="-905" y="-1450" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wmuMwJECuC7DbsyBC3H5-14" value="严重告警健康评分信息&lt;br&gt;（sDetail）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF6666;" vertex="1" parent="1">
-          <mxGeometry x="-630" y="850" width="150" height="80" as="geometry" />
+        <mxCell id="VA9WSa8h0C6rnpW5ZgEt-6" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="-365" y="-1450" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wmuMwJECuC7DbsyBC3H5-15" value="次严重告警健康评分信息&lt;br&gt;（subDetail）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF6666;" vertex="1" parent="1">
-          <mxGeometry x="-420" y="850" width="150" height="80" as="geometry" />
+        <mxCell id="VA9WSa8h0C6rnpW5ZgEt-7" value="次严重权重得分&lt;br&gt;&lt;br&gt;scoreSubSerious = 100 * 次严重告警权重" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9999;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="-1290" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wmuMwJECuC7DbsyBC3H5-16" value="预警告警健康评分信息&lt;br&gt;（gDetail）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF6666;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="850" width="150" height="80" as="geometry" />
+        <mxCell id="VA9WSa8h0C6rnpW5ZgEt-8" value="预警权重得分&lt;br&gt;&lt;br&gt;scoreGeneral = 100 * 预警告警权重配置" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" vertex="1" parent="1">
+          <mxGeometry x="-265" y="-1290" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VA9WSa8h0C6rnpW5ZgEt-9" value="计算指标平均得分" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#D4E1F5;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-955" y="-1150" width="950" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="VA9WSa8h0C6rnpW5ZgEt-10" value="严重告警指标平均分&lt;br&gt;&lt;br&gt;avgSerious = scoreSerious / sDetail.size()" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;flipV=1;fillColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="-938.5" y="-1100" width="277" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VA9WSa8h0C6rnpW5ZgEt-12" value="次严重告警指标平均分&lt;br&gt;&lt;br&gt;avgSubSerious = scoreSubSerious / subDetail.size()" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;flipV=1;fillColor=#FF9999;" vertex="1" parent="1">
+          <mxGeometry x="-630.5" y="-1100" width="295" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VA9WSa8h0C6rnpW5ZgEt-13" value="预警告警指标平均分&lt;br&gt;&lt;br&gt;avgGeneralSerious = scoreGeneral / gDetail.size()" style="rounded=0;whiteSpace=wrap;html=1;flipH=1;flipV=1;fillColor=#FFCCCC;" vertex="1" parent="1">
+          <mxGeometry x="-311.5" y="-1100" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VA9WSa8h0C6rnpW5ZgEt-14" value="使用健康指数初始化" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#D4E1F5;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-955" y="-960" width="950" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="VA9WSa8h0C6rnpW5ZgEt-35" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="-714" y="-920" width="460" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="VA9WSa8h0C6rnpW5ZgEt-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VA9WSa8h0C6rnpW5ZgEt-16" target="VA9WSa8h0C6rnpW5ZgEt-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VA9WSa8h0C6rnpW5ZgEt-16" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="-632.37" y="-900" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VA9WSa8h0C6rnpW5ZgEt-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VA9WSa8h0C6rnpW5ZgEt-17" target="VA9WSa8h0C6rnpW5ZgEt-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VA9WSa8h0C6rnpW5ZgEt-20" value="是&lt;br&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VA9WSa8h0C6rnpW5ZgEt-19">
+          <mxGeometry x="-0.2068" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VA9WSa8h0C6rnpW5ZgEt-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VA9WSa8h0C6rnpW5ZgEt-17" target="VA9WSa8h0C6rnpW5ZgEt-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VA9WSa8h0C6rnpW5ZgEt-33" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VA9WSa8h0C6rnpW5ZgEt-28">
+          <mxGeometry x="-0.3333" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VA9WSa8h0C6rnpW5ZgEt-17" value="严重告警健康评分信息&lt;br&gt;（sDetail）存在严重告警" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#CCFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-678.62" y="-830" width="212.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VA9WSa8h0C6rnpW5ZgEt-18" value="使用严重告警指数" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="-415" y="-810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VA9WSa8h0C6rnpW5ZgEt-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VA9WSa8h0C6rnpW5ZgEt-22" target="VA9WSa8h0C6rnpW5ZgEt-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VA9WSa8h0C6rnpW5ZgEt-30" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VA9WSa8h0C6rnpW5ZgEt-25">
+          <mxGeometry x="-0.2652" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VA9WSa8h0C6rnpW5ZgEt-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VA9WSa8h0C6rnpW5ZgEt-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-572.3699999999999" y="-510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VA9WSa8h0C6rnpW5ZgEt-32" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VA9WSa8h0C6rnpW5ZgEt-29">
+          <mxGeometry x="-0.1587" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VA9WSa8h0C6rnpW5ZgEt-22" value="次严重告警健康评分信息&lt;br&gt;（subDetail）存在严重告警" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#CCFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-678.62" y="-670" width="212.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VA9WSa8h0C6rnpW5ZgEt-24" value="使用次严重告警指数" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9999;" vertex="1" parent="1">
+          <mxGeometry x="-415" y="-650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VA9WSa8h0C6rnpW5ZgEt-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VA9WSa8h0C6rnpW5ZgEt-26" target="VA9WSa8h0C6rnpW5ZgEt-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VA9WSa8h0C6rnpW5ZgEt-26" value="使用预警告警指数" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" vertex="1" parent="1">
+          <mxGeometry x="-632.37" y="-510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VA9WSa8h0C6rnpW5ZgEt-34" value="健康指数" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="-940" y="-660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VA9WSa8h0C6rnpW5ZgEt-37" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="-632.37" y="-400" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VA9WSa8h0C6rnpW5ZgEt-40" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=24.14;notch=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="-237.14" y="-640" width="57.14" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VA9WSa8h0C6rnpW5ZgEt-41" value="使用健康指数&lt;br&gt;（useIndex）" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#d5e8d4;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="-655" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VA9WSa8h0C6rnpW5ZgEt-42" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=24.14;notch=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="-640" width="57.14" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

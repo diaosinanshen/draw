@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-12-15T08:17:41.820Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.2" etag="THrE2nvmDX05oMxdbKHM" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-16T01:22:31.503Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.2" etag="nLVPNl2kU2zvy4tgxMkf" type="github">
   <diagram id="izwWM4gM8pH8U4Y7A12L" name="第 1 页">
-    <mxGraphModel dx="3164" dy="4901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="5324" dy="6068" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Otjz2qQ6AenyKlfUYaBh-1" value="系统评分处理器" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;fillColor=#CCFFFF;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-1030" y="-1920" width="1230" height="2070" as="geometry" />
         </mxCell>
-        <mxCell id="Otjz2qQ6AenyKlfUYaBh-2" value="健康评分计算" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#CCE5FF;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="Otjz2qQ6AenyKlfUYaBh-2" value="计算健康评分" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#CCE5FF;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-995" y="-1880" width="1160" height="1980" as="geometry" />
         </mxCell>
         <mxCell id="Otjz2qQ6AenyKlfUYaBh-7" value="计算健康评分详情得分" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#FFE6CC;" vertex="1" parent="1">
@@ -239,24 +239,6 @@
         </mxCell>
         <mxCell id="Otjz2qQ6AenyKlfUYaBh-151" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;fontColor=#CCFFFF;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-447.5" y="-410" width="70" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="Otjz2qQ6AenyKlfUYaBh-156" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=14;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="105" y="-1360" as="sourcePoint" />
-            <mxPoint x="320" y="-1450" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Otjz2qQ6AenyKlfUYaBh-157" value="为健康评分基础信息实例赋值所得分数，如果是告警生成的健康评分基础信息实例则得0分，否则得对应严重级别指标平均分。" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="325" y="-1520" width="260" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="Otjz2qQ6AenyKlfUYaBh-158" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=14;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="110" y="-290" as="sourcePoint" />
-            <mxPoint x="325" y="-380" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Otjz2qQ6AenyKlfUYaBh-159" value="累加所有健康评分基础信息实例得分并乘以确定使用的健康指数得出系统最终健康评分。" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="330" y="-450" width="260" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

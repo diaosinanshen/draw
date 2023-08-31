@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-08-31T07:34:33.361Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="ZQK-ZyuBtkK2U9E33TGQ" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-31T07:38:46.041Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="NnRCOkH_7Ti3_S4MkFnV" version="21.7.1" type="github">
   <diagram name="第 1 页" id="Ps2D1eNA88uoamYgQ0YJ">
     <mxGraphModel dx="2303" dy="1230" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="uwCnqsSgFnwAL1Oi17WA-2" value="信息运维数智管控平台" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=28;spacingTop=10;strokeColor=#00706B;fillColor=#9AC7BF;fontColor=#0C4A4C;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="410" y="160" width="990" height="480" as="geometry" />
+        <mxCell id="uwCnqsSgFnwAL1Oi17WA-2" value="信息运维数智管控平台" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=28;spacingTop=20;strokeColor=#00706B;fillColor=#9AC7BF;fontColor=#0C4A4C;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="435.63" y="155" width="948.75" height="470" as="geometry" />
         </mxCell>
         <mxCell id="uwCnqsSgFnwAL1Oi17WA-3" value="需求管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00706B;fontColor=#FFFFFF;fontSize=18;strokeColor=#00706B;" vertex="1" parent="1">
           <mxGeometry x="470" y="280" width="260" height="60" as="geometry" />

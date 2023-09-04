@@ -1,9 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T01:36:00.175Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.7.1" etag="DHBA65yazdT819uHaKCw" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-04T01:55:04.545Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="dHfHPoD5b4oWoMYns_y5" version="21.7.1" type="github">
   <diagram name="第 1 页" id="SOof2jckrEmZIlQwF5F4">
-    <mxGraphModel>
+    <mxGraphModel dx="1842" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="F_tOMsYDwcDX236YXaVL-4" value="数据源" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="450" y="200" width="170" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="F_tOMsYDwcDX236YXaVL-1" value="人工录入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F_tOMsYDwcDX236YXaVL-2" value="文件导入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F_tOMsYDwcDX236YXaVL-5" value="数据处理" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="720" y="200" width="160" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="F_tOMsYDwcDX236YXaVL-6" value="数据存储" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="974" y="200" width="160" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="F_tOMsYDwcDX236YXaVL-7" value="关系数据库&lt;br&gt;Mysql" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="994" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F_tOMsYDwcDX236YXaVL-8" value="非关系数据库&lt;br&gt;Redis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="994" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F_tOMsYDwcDX236YXaVL-9" value="数据接收" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F_tOMsYDwcDX236YXaVL-10" value="数据转换" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F_tOMsYDwcDX236YXaVL-11" value="数据处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F_tOMsYDwcDX236YXaVL-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="399.58" as="sourcePoint" />
+            <mxPoint x="700" y="399.58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F_tOMsYDwcDX236YXaVL-14" value="数据可视化" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1234" y="200" width="160" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="F_tOMsYDwcDX236YXaVL-15" value="Echart图表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1254" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F_tOMsYDwcDX236YXaVL-16" value="网页展示" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1254" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F_tOMsYDwcDX236YXaVL-17" value="文档资料输出" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1254" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F_tOMsYDwcDX236YXaVL-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="890" y="399.58" as="sourcePoint" />
+            <mxPoint x="960" y="399.58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F_tOMsYDwcDX236YXaVL-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1144" y="399.58" as="sourcePoint" />
+            <mxPoint x="1214" y="399.58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

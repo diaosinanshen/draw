@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T03:13:02.708Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="3qTtbwNLr67O2SKjGNtk" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-04T10:00:25.328Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="7VBM7Z_wH17pWtbt99Zh" version="21.7.1" type="github">
   <diagram name="第 1 页" id="ebwRXmrm1aUgVR7Ejbet">
     <mxGraphModel dx="1535" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="arkA_6knLtmlgAT6H4lU-2" value="信息内网" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;fontSize=36;align=left;spacingTop=30;spacingLeft=40;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="arkA_6knLtmlgAT6H4lU-2" value="信息内网" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;fontSize=36;align=left;spacingTop=30;spacingLeft=40;strokeWidth=2;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="500" y="190" width="715.29" height="480" as="geometry" />
         </mxCell>
         <mxCell id="arkA_6knLtmlgAT6H4lU-3" value="信息运维数智管控平台" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;fillColor=#DBEEF4;" vertex="1" parent="1">

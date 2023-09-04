@@ -1,38 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T01:55:04.545Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="dHfHPoD5b4oWoMYns_y5" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-04T02:14:13.147Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="E7FFFWd2jrPGTP0oBcOJ" version="21.7.1" type="github">
   <diagram name="第 1 页" id="SOof2jckrEmZIlQwF5F4">
-    <mxGraphModel dx="1842" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1535" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="F_tOMsYDwcDX236YXaVL-4" value="数据源" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="F_tOMsYDwcDX236YXaVL-4" value="数据输入" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="450" y="200" width="170" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="F_tOMsYDwcDX236YXaVL-1" value="人工录入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="475" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="F_tOMsYDwcDX236YXaVL-1" value="运维专责录入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F_tOMsYDwcDX236YXaVL-2" value="文件导入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="475" y="430" width="120" height="60" as="geometry" />
+        <mxCell id="F_tOMsYDwcDX236YXaVL-2" value="模板文件导入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F_tOMsYDwcDX236YXaVL-5" value="数据处理" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="720" y="200" width="160" height="400" as="geometry" />
+          <mxGeometry x="720" y="200" width="220" height="400" as="geometry" />
         </mxCell>
         <mxCell id="F_tOMsYDwcDX236YXaVL-6" value="数据存储" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="974" y="200" width="160" height="400" as="geometry" />
+          <mxGeometry x="1034" y="200" width="160" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="F_tOMsYDwcDX236YXaVL-7" value="关系数据库&lt;br&gt;Mysql" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="994" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="F_tOMsYDwcDX236YXaVL-7" value="关系数据库&lt;br&gt;Mysql" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1054" y="250" width="120" height="240" as="geometry" />
         </mxCell>
         <mxCell id="F_tOMsYDwcDX236YXaVL-8" value="非关系数据库&lt;br&gt;Redis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="994" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="1054" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F_tOMsYDwcDX236YXaVL-9" value="数据接收" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="740" y="250" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="F_tOMsYDwcDX236YXaVL-10" value="数据转换" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="370" width="120" height="60" as="geometry" />
+        <mxCell id="F_tOMsYDwcDX236YXaVL-10" value="数据转换" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="740" y="300" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="F_tOMsYDwcDX236YXaVL-11" value="数据处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="480" width="120" height="60" as="geometry" />
+        <mxCell id="F_tOMsYDwcDX236YXaVL-11" value="数据处理" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="740" y="350" width="170" height="230" as="geometry" />
         </mxCell>
         <mxCell id="F_tOMsYDwcDX236YXaVL-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -40,29 +40,68 @@
             <mxPoint x="700" y="399.58" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F_tOMsYDwcDX236YXaVL-14" value="数据可视化" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1234" y="200" width="160" height="400" as="geometry" />
+        <mxCell id="F_tOMsYDwcDX236YXaVL-14" value="数据输出" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1294" y="200" width="160" height="400" as="geometry" />
         </mxCell>
         <mxCell id="F_tOMsYDwcDX236YXaVL-15" value="Echart图表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1254" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="1314" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F_tOMsYDwcDX236YXaVL-16" value="网页展示" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1254" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="1314" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F_tOMsYDwcDX236YXaVL-17" value="文档资料输出" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1254" y="480" width="120" height="60" as="geometry" />
+        <mxCell id="F_tOMsYDwcDX236YXaVL-17" value="文档输出" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1314" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F_tOMsYDwcDX236YXaVL-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="890" y="399.58" as="sourcePoint" />
-            <mxPoint x="960" y="399.58" as="targetPoint" />
+            <mxPoint x="950" y="399.58" as="sourcePoint" />
+            <mxPoint x="1020" y="399.58" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="F_tOMsYDwcDX236YXaVL-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1144" y="399.58" as="sourcePoint" />
-            <mxPoint x="1214" y="399.58" as="targetPoint" />
+            <mxPoint x="1204" y="399.58" as="sourcePoint" />
+            <mxPoint x="1274" y="399.58" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="F_tOMsYDwcDX236YXaVL-20" value="运维厂商录入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F_tOMsYDwcDX236YXaVL-21" value="数字化专责录入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="424" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F_tOMsYDwcDX236YXaVL-24" value="需求数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1079" y="293" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F_tOMsYDwcDX236YXaVL-25" value="项目数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1079" y="332" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F_tOMsYDwcDX236YXaVL-26" value="运维数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1079" y="371" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F_tOMsYDwcDX236YXaVL-27" value="验收数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1079" y="450" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F_tOMsYDwcDX236YXaVL-28" value="入场数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1079" y="411" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F_tOMsYDwcDX236YXaVL-32" value="OCR识别" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="439" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F_tOMsYDwcDX236YXaVL-33" value="SimHash计算" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="441" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F_tOMsYDwcDX236YXaVL-35" value="数据校验" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="385" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F_tOMsYDwcDX236YXaVL-36" value="业务处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="385" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F_tOMsYDwcDX236YXaVL-38" value="数据压缩" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="490" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F_tOMsYDwcDX236YXaVL-39" value="数据压缩" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="460" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

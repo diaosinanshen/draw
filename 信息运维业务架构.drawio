@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-09-05T09:25:28.393Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="vfgv8Efrk0BAG-MhFPpi" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-05T09:34:24.248Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="YUCz5Ws9LAxNjFPXUQhe" version="21.7.2" type="github">
   <diagram name="第 1 页" id="Ps2D1eNA88uoamYgQ0YJ">
-    <mxGraphModel dx="1535" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="2167" dy="1158" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="uwCnqsSgFnwAL1Oi17WA-2" value="信息运维数智管控平台" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=28;spacingTop=20;strokeColor=#00706B;fillColor=#DBEEF4;fontColor=#0C4A4C;fontStyle=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="440" y="170" width="900" height="570" as="geometry" />
+          <mxGeometry x="440" y="170" width="840" height="570" as="geometry" />
         </mxCell>
         <mxCell id="uwCnqsSgFnwAL1Oi17WA-3" value="项目新建" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00706B;fontColor=#FFFFFF;fontSize=20;strokeColor=#00706B;fontStyle=0;align=center;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="470" y="280" width="280" height="420" as="geometry" />
+          <mxGeometry x="470" y="280" width="280" height="400" as="geometry" />
         </mxCell>
         <mxCell id="TOlJZ-k3IMX6XRpZ1SeO-2" value="需求申报" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="480" y="350" width="120" height="60" as="geometry" />
@@ -26,37 +26,37 @@
           <mxGeometry x="480" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TOlJZ-k3IMX6XRpZ1SeO-10" value="项目运维" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00706B;fontColor=#FFFFFF;fontSize=20;strokeColor=#00706B;fontStyle=0;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="780" y="280" width="325" height="420" as="geometry" />
+          <mxGeometry x="780" y="280" width="290" height="400" as="geometry" />
         </mxCell>
         <mxCell id="TOlJZ-k3IMX6XRpZ1SeO-11" value="入场申请" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="808" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="793" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TOlJZ-k3IMX6XRpZ1SeO-12" value="专责审核" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="950" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="935" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TOlJZ-k3IMX6XRpZ1SeO-13" value="部门审核" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="808" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="793" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TOlJZ-k3IMX6XRpZ1SeO-14" value="项目验收" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00706B;fontColor=#FFFFFF;fontSize=20;strokeColor=#00706B;fontStyle=0;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="280" width="170" height="420" as="geometry" />
+          <mxGeometry x="1100" y="280" width="150" height="400" as="geometry" />
         </mxCell>
         <mxCell id="TOlJZ-k3IMX6XRpZ1SeO-15" value="验收申请" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="1165" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="1115" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TOlJZ-k3IMX6XRpZ1SeO-16" value="验收审核" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="1165" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="1115" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TOlJZ-k3IMX6XRpZ1SeO-17" value="验收计划" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="1165" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="1115" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TOlJZ-k3IMX6XRpZ1SeO-24" value="日常运维" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="950" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="935" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TOlJZ-k3IMX6XRpZ1SeO-25" value="季度质量评价" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="950" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="935" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TOlJZ-k3IMX6XRpZ1SeO-26" value="佐证资料核查" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="808" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="793" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TOlJZ-k3IMX6XRpZ1SeO-28" value="合同签订" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="620" y="570" width="120" height="60" as="geometry" />

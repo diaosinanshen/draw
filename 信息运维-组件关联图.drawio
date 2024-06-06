@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-16T06:03:47.984Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="JBE-Vx2coCf8ShRazrjE" version="24.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-06T08:01:35.158Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="8BuE82Qz6G6F8nz8AdKF" version="24.4.13" type="github">
   <diagram id="-nUlbiPWIa_YUagmwYu6" name="第 1 页">
-    <mxGraphModel dx="2440" dy="1292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -83,10 +83,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xfbAxuXr3Si1YzYXhxK_-93" value="JSFW-01&#xa;Java运行组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="406.5" y="1080" width="110" height="50" as="geometry" />
+          <mxGeometry x="210" y="1080" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xfbAxuXr3Si1YzYXhxK_-94" value="JSFW-02&#xa;Js处理组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="542.5" y="1080" width="110" height="50" as="geometry" />
+          <mxGeometry x="348" y="1080" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xfbAxuXr3Si1YzYXhxK_-98" value="JCJG-01&#xa;中间件服务" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="339" y="1320" width="110" height="50" as="geometry" />
@@ -145,8 +145,17 @@
         <mxCell id="2LXU_3X6bgzTIwt-wgfQ-4" value="JCYW-08&#xa;算法分析组件" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1018.5" y="840" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="hBMi0_a7IfTJYzLY-hhf-3" value="JSFW-03&#xa;文件在线预览" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="682" y="1080" width="110" height="50" as="geometry" />
+        <mxCell id="hBMi0_a7IfTJYzLY-hhf-3" value="JSFW-03&#xa;文件在线预览" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="486" y="1080" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VTKT0HyP7iC7CDMeWIU3-1" value="JSFW-04&#xa;用户信息" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="625" y="1080" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VTKT0HyP7iC7CDMeWIU3-2" value="JSFW-05&#xa;非结构化数据" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="763" y="1080" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VTKT0HyP7iC7CDMeWIU3-3" value="JSFW-06&#xa;OCR识别" style="shape=module;align=center;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="901" y="1080" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -53,28 +53,28 @@
           <mxGeometry x="455" y="392.5" width="110" height="45" as="geometry" />
         </mxCell>
         <mxCell id="6kliAmO4_DyFf_2dy3NH-9" value="运维系统管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
-          <mxGeometry x="605" y="375" width="110" height="20" as="geometry" />
+          <mxGeometry x="605" y="377" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6kliAmO4_DyFf_2dy3NH-10" value="运维人员管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
-          <mxGeometry x="605" y="405" width="110" height="20" as="geometry" />
+          <mxGeometry x="605" y="407" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6kliAmO4_DyFf_2dy3NH-11" value="问题分类管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
-          <mxGeometry x="605" y="435" width="110" height="20" as="geometry" />
+          <mxGeometry x="605" y="437" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6kliAmO4_DyFf_2dy3NH-12" value="检修信息维护" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
-          <mxGeometry x="605" y="465" width="110" height="20" as="geometry" />
+          <mxGeometry x="605" y="467" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6kliAmO4_DyFf_2dy3NH-13" value="RPA脚本管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
-          <mxGeometry x="150" y="545" width="110" height="20" as="geometry" />
+        <mxCell id="6kliAmO4_DyFf_2dy3NH-13" value="脚本管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="150" y="549" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6kliAmO4_DyFf_2dy3NH-14" value="我的待办" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
-          <mxGeometry x="299" y="545" width="110" height="20" as="geometry" />
+          <mxGeometry x="299" y="549" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6kliAmO4_DyFf_2dy3NH-15" value="消息提醒" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
-          <mxGeometry x="460" y="545" width="110" height="20" as="geometry" />
+          <mxGeometry x="460" y="549" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6kliAmO4_DyFf_2dy3NH-16" value="我的工单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
-          <mxGeometry x="605" y="545" width="110" height="20" as="geometry" />
+          <mxGeometry x="605" y="549" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
